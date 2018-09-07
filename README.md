@@ -1,0 +1,2 @@
+# Minolovec
+Igrica Minolovec
